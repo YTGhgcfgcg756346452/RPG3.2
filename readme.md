@@ -4,6 +4,9 @@ This is a project template for [RPGJS](https://rpgjs.dev) apps. It lives at http
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
+
+
+Dmitry was heree!!!!.
 ```bash
 npx degit rpgjs/starter rpg-app
 cd rpg-app
